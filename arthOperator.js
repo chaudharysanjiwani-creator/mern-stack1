@@ -216,4 +216,9 @@ if(marks > 90 && marks < 100){
    for(let x in objArray){
     console.log(" my "+x+ " is " + objArr[x])
    }
-   
+   //javaScript while loop 
+   let i = 0;
+   while (i < 5) {
+       console.log("Hello World");
+       i++;
+   }
